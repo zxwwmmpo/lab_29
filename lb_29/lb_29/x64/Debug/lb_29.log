@@ -1,0 +1,3 @@
+﻿  TextProcessingFile.c
+C:\Users\vkobi\OneDrive\Desktop\TextProcessingFile.c(35,2): warning C4013: TextProcessing: нет определения; предполагается "extern" с возвратом типа "int"
+  lb_29.vcxproj -> C:\Users\vkobi\source\repos\lb_29\x64\Debug\lb_29.exe
